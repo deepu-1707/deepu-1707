@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Java ,Python Programming language and I am very excited to learn and explore more about DSA
+I am currently studying about DSA and want to explore more about it.
 
 
 ## 🌐 Socials:
